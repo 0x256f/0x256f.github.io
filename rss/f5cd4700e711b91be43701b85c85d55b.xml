@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Дмитрий RAY</title>
+    <link>https://www.youtube.com/channel/UCYcygnLe4cCuo2Zx0jtkcyg</link>
+    <description>YouTube</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 13 May 2022 15:22:55 +0000</lastBuildDate>
+    <pubDate>Tue, 10 May 2022 16:00:34 +0000</pubDate>
+    <item>
+      <title>ПИОНЕРЛАГЕРЬ! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ca565c79e2f3e9443306a71ccf0a7339.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ca565c79e2f3e9443306a71ccf0a7339.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:35</itunes:duration>
+      <pubDate>Mon, 02 May 2022 16:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>КУЛЬТ ЧЕРВЯ! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e73fe27c98fd4dd1d3345192d3c49eee.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e73fe27c98fd4dd1d3345192d3c49eee.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>28:03</itunes:duration>
+      <pubDate>Fri, 06 May 2022 16:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>ВЕДЬМИН ВНУК! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/6057aca9602e836872d25f231c9e796b.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/6057aca9602e836872d25f231c9e796b.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>36:01</itunes:duration>
+      <pubDate>Tue, 10 May 2022 16:00:34 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
