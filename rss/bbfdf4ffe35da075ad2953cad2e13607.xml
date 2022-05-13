@@ -8,6 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 May 2022 15:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 May 2022 15:46:02 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2022 18:24:42 +0000</pubDate>
+    <item>
+      <title>Очередной разговорный стрим с поигрульками</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9cd232ad30e81cf20988539d334ace0.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9cd232ad30e81cf20988539d334ace0.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:12:35</itunes:duration>
+      <pubDate>Thu, 28 Apr 2022 18:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Комната № 51 | Страшная история | Работа сторожем</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/86ea8ecdb2e49d77dbdc4a9ce496fadc.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/86ea8ecdb2e49d77dbdc4a9ce496fadc.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>13:01</itunes:duration>
+      <pubDate>Sun, 01 May 2022 14:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Очередной разговорный стрим с поигрульками</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/35ababdb2c40f47c482e7609c59fd2ab.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/35ababdb2c40f47c482e7609c59fd2ab.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:18:55</itunes:duration>
+      <pubDate>Thu, 05 May 2022 18:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Пещера Тэда | Спелеотуризм | Классика страшных историй</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/271afb0a259ef8a4f57712b27b471411.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/271afb0a259ef8a4f57712b27b471411.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:19:26</itunes:duration>
+      <pubDate>Tue, 10 May 2022 18:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Классический разговорный стрим с поигрульками</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ad26b2e7238e654a4da1d1ecfcc37996.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ad26b2e7238e654a4da1d1ecfcc37996.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:13:25</itunes:duration>
+      <pubDate>Thu, 12 May 2022 18:24:42 +0000</pubDate>
+    </item>
   </channel>
 </rss>
