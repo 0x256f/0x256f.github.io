@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>АБАДДОН</title>
+    <link>https://www.youtube.com/channel/UC35VH2QkyOY2evKz-5DCSxA</link>
+    <description>YouTube</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 15 May 2022 09:12:20 +0000</lastBuildDate>
+    <pubDate>Thu, 12 May 2022 12:00:12 +0000</pubDate>
+    <item>
+      <title>СПЕЦОТДЕЛ НКВД. ПОТУСТОРОННЕЕ. Дело номер 009. ГОЛЛАНДЕЦ</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e149cb73ba431489b8d3a808ff20301a.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e149cb73ba431489b8d3a808ff20301a.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:07</itunes:duration>
+      <pubDate>Thu, 24 Mar 2022 12:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ТЕБЕ НИКТО НЕ ПОВЕРИТ. Апокалипсис. УЖАСЫ. КОНЕЦ СВЕТА</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/bc1eaba403145528352149a441a03d24.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/bc1eaba403145528352149a441a03d24.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>12:29</itunes:duration>
+      <pubDate>Tue, 29 Mar 2022 12:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>СПЕЦОТДЕЛ НКВД. ПОТУСТОРОННЕЕ. Дело номер 010. МЕЖДУ АНГЕЛОМ И БЕСОМ</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3004082927cbb18d3a91d2994bfec430.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3004082927cbb18d3a91d2994bfec430.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>52:27</itunes:duration>
+      <pubDate>Thu, 31 Mar 2022 12:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗВЕЗДА ПОЛЫНЬ. ПЕРВАЯ ЧАСТЬ. ЧЕРНОБЫЛЬ. ПРИПЯТЬ. СТАЛКЕР</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/576e431e239de21d405c4be52c4c7347.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/576e431e239de21d405c4be52c4c7347.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>33:18</itunes:duration>
+      <pubDate>Thu, 07 Apr 2022 12:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Как не остаться без АБАДДОНА. ЮТУБ ВСЕ. ИЛИ НЕТ.</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/2862027a7c10a211b38a6351047896bc.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/2862027a7c10a211b38a6351047896bc.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:35</itunes:duration>
+      <pubDate>Sat, 09 Apr 2022 09:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>КТО НЕ СПРЯТАЛСЯ. Ужасы. Мистика. Аудиокнига</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/1578ffdf9fac3d73fdd99b9adfa8ab79.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/1578ffdf9fac3d73fdd99b9adfa8ab79.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>21:56</itunes:duration>
+      <pubDate>Tue, 12 Apr 2022 12:00:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗВЕЗДА ПОЛЫНЬ. ВТОРАЯ ЧАСТЬ. ЧЕРНОБЫЛЬ. ПРИПЯТЬ. СТАЛКЕР</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/208bdddb75ae3116bda57fd5a0583e5c.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/208bdddb75ae3116bda57fd5a0583e5c.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:47</itunes:duration>
+      <pubDate>Thu, 14 Apr 2022 12:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>ЗВЕЗДА ПОЛЫНЬ. ТРЕТЬЯ ГЛАВА. ЧЕРНОБЫЛЬ. ПРИПЯТЬ. СТАЛКЕР</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8f011dac63e4e416c21ded14dc186317.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8f011dac63e4e416c21ded14dc186317.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>34:59</itunes:duration>
+      <pubDate>Tue, 19 Apr 2022 12:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>АРХИВЫ "СМЕРШ". АНТИДИВЕРСАНТ. НАЧАЛО. Фильм ужасов. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a9c8ebe49e8b7edbf348b919e9a1aeed.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a9c8ebe49e8b7edbf348b919e9a1aeed.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>32:28</itunes:duration>
+      <pubDate>Thu, 21 Apr 2022 12:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>ПНП17. ГЛАВА 1. Фильм ужасов. Мистика. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3bfb0eab81eaeeb9c1e8fe5fdc11b4b6.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3bfb0eab81eaeeb9c1e8fe5fdc11b4b6.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>37:01</itunes:duration>
+      <pubDate>Tue, 26 Apr 2022 12:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>ПНП17. ГЛАВА 2. Фильм ужасов. Мистика. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/c6ecd5ddcb13c5a6cc8f215bfe19a2cf.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/c6ecd5ddcb13c5a6cc8f215bfe19a2cf.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>35:50</itunes:duration>
+      <pubDate>Thu, 28 Apr 2022 12:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>ПНП17. ГЛАВА 3. Фильм ужасов. Мистика. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/85efc6ad747ac81b6e371e54e3720a91.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/85efc6ad747ac81b6e371e54e3720a91.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>42:16</itunes:duration>
+      <pubDate>Tue, 03 May 2022 12:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>ПНП17. ГЛАВА 4. Фильм ужасов. Мистика. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/cf14405e8cf8ef1d89c5bb884e195212.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/cf14405e8cf8ef1d89c5bb884e195212.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>44:40</itunes:duration>
+      <pubDate>Thu, 05 May 2022 12:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ПНП17. ФИНАЛ. Фильм ужасов. Мистика. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8ec329276a8c9527d2a691741d40b45e.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8ec329276a8c9527d2a691741d40b45e.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>55:53</itunes:duration>
+      <pubDate>Tue, 10 May 2022 12:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>АРХИВЫ "СМЕРШ". АНТИДИВЕРСАНТ II. Фильм ужасов. Страшные рассказы</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/994d8bfd04f604b328d113282b9a084c.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/994d8bfd04f604b328d113282b9a084c.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>43:12</itunes:duration>
+      <pubDate>Thu, 12 May 2022 12:00:12 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
