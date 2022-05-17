@@ -8,117 +8,117 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 May 2022 08:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 08:45:02 +0000</lastBuildDate>
     <pubDate>Sun, 15 May 2022 14:00:05 +0000</pubDate>
     <item>
       <title>В пустоту | Жуткая мистическая история | Случай на карьерах</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/1750856eec8518457e608237786b57ee.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/1750856eec8518457e608237786b57ee.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/1750856eec8518457e608237786b57ee.mp3" length="19081860" type="audio/mpeg"/>
       <itunes:duration>19:53</itunes:duration>
       <pubDate>Sun, 15 May 2022 14:00:05 +0000</pubDate>
     </item>
     <item>
       <title>Десять дней в месяц | Страшная история о нехорошей деревне</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3240413215fa19b0f0292a9c3f7c823f.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3240413215fa19b0f0292a9c3f7c823f.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/3240413215fa19b0f0292a9c3f7c823f.mp3" length="18401005" type="audio/mpeg"/>
       <itunes:duration>19:10</itunes:duration>
       <pubDate>Sun, 20 Feb 2022 14:00:33 +0000</pubDate>
     </item>
     <item>
       <title>Стрим в день релиза! Пробуем Martha is dead и болтаем</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/bfb7e32e39a85edd6347c77f9b08813e.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/bfb7e32e39a85edd6347c77f9b08813e.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/bfb7e32e39a85edd6347c77f9b08813e.mp3" length="124130049" type="audio/mpeg"/>
       <itunes:duration>02:09:18</itunes:duration>
       <pubDate>Thu, 24 Feb 2022 18:24:23 +0000</pubDate>
     </item>
     <item>
       <title>Сухощавый | Страшная история</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ac8bb26b87e0ac041bbcf9d9f02ed929.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ac8bb26b87e0ac041bbcf9d9f02ed929.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ac8bb26b87e0ac041bbcf9d9f02ed929.mp3" length="24494014" type="audio/mpeg"/>
       <itunes:duration>25:31</itunes:duration>
       <pubDate>Sun, 27 Feb 2022 14:00:04 +0000</pubDate>
     </item>
     <item>
       <title>Настоящий друг | Страшная история | ЭКСКЛЮЗИВ</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/5216d1f6d7a988b7dca4ee3b89895a40.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/5216d1f6d7a988b7dca4ee3b89895a40.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/5216d1f6d7a988b7dca4ee3b89895a40.mp3" length="25983202" type="audio/mpeg"/>
       <itunes:duration>27:04</itunes:duration>
       <pubDate>Sun, 20 Mar 2022 14:00:23 +0000</pubDate>
     </item>
     <item>
       <title>Стримлю, пока не заблокировали. Болтаем и играем</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/f8a62d40a3b9ecb9a94ebffd9f30986d.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/f8a62d40a3b9ecb9a94ebffd9f30986d.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/f8a62d40a3b9ecb9a94ebffd9f30986d.mp3" length="116945749" type="audio/mpeg"/>
       <itunes:duration>02:01:49</itunes:duration>
       <pubDate>Thu, 24 Mar 2022 18:15:47 +0000</pubDate>
     </item>
     <item>
       <title>Если я прав, то мы все доживём до старости | Мистическая история | Ложные воспоминания</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/cde7489c5b40a37b5de9fbd21165e597.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/cde7489c5b40a37b5de9fbd21165e597.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/cde7489c5b40a37b5de9fbd21165e597.mp3" length="27785024" type="audio/mpeg"/>
       <itunes:duration>28:57</itunes:duration>
       <pubDate>Sun, 27 Mar 2022 14:00:11 +0000</pubDate>
     </item>
     <item>
       <title>Могилы в лесу | Страшная история | Жуткий случай в СССР</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a48615342002d90ad6730fb3229e397d.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a48615342002d90ad6730fb3229e397d.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a48615342002d90ad6730fb3229e397d.mp3" length="29403362" type="audio/mpeg"/>
       <itunes:duration>30:38</itunes:duration>
       <pubDate>Sun, 03 Apr 2022 14:00:33 +0000</pubDate>
     </item>
     <item>
       <title>Очередная БОЛТОВНЯ с подписчиками и поигрульки</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/551d0459c9d5bf23c8bd0bbf7bdb6c64.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/551d0459c9d5bf23c8bd0bbf7bdb6c64.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/551d0459c9d5bf23c8bd0bbf7bdb6c64.mp3" length="103827682" type="audio/mpeg"/>
       <itunes:duration>01:48:09</itunes:duration>
       <pubDate>Fri, 08 Apr 2022 05:56:25 +0000</pubDate>
     </item>
     <item>
       <title>Заправка | Страшная история | Работа в глуши</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8ba492b6b004dd530d6fdaa2ad29dfd7.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8ba492b6b004dd530d6fdaa2ad29dfd7.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/8ba492b6b004dd530d6fdaa2ad29dfd7.mp3" length="13722369" type="audio/mpeg"/>
       <itunes:duration>14:18</itunes:duration>
       <pubDate>Sun, 10 Apr 2022 14:00:31 +0000</pubDate>
     </item>
     <item>
       <title>Давай поцелуемся | Одержимость | Страшная история</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ec5100163607ca642b4ad8dec3a7e01a.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ec5100163607ca642b4ad8dec3a7e01a.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ec5100163607ca642b4ad8dec3a7e01a.mp3" length="31758144" type="audio/mpeg"/>
       <itunes:duration>33:05</itunes:duration>
       <pubDate>Sun, 24 Apr 2022 14:00:13 +0000</pubDate>
     </item>
     <item>
       <title>Очередной разговорный стрим с поигрульками</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9cd232ad30e81cf20988539d334ace0.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9cd232ad30e81cf20988539d334ace0.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9cd232ad30e81cf20988539d334ace0.mp3" length="127281880" type="audio/mpeg"/>
       <itunes:duration>02:12:35</itunes:duration>
       <pubDate>Thu, 28 Apr 2022 18:25:55 +0000</pubDate>
     </item>
     <item>
       <title>Комната № 51 | Страшная история | Работа сторожем</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/86ea8ecdb2e49d77dbdc4a9ce496fadc.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/86ea8ecdb2e49d77dbdc4a9ce496fadc.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/86ea8ecdb2e49d77dbdc4a9ce496fadc.mp3" length="12501511" type="audio/mpeg"/>
       <itunes:duration>13:01</itunes:duration>
       <pubDate>Sun, 01 May 2022 14:00:18 +0000</pubDate>
     </item>
     <item>
       <title>Очередной разговорный стрим с поигрульками</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/35ababdb2c40f47c482e7609c59fd2ab.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/35ababdb2c40f47c482e7609c59fd2ab.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/35ababdb2c40f47c482e7609c59fd2ab.mp3" length="133366112" type="audio/mpeg"/>
       <itunes:duration>02:18:55</itunes:duration>
       <pubDate>Thu, 05 May 2022 18:40:19 +0000</pubDate>
     </item>
     <item>
       <title>Пещера Тэда | Спелеотуризм | Классика страшных историй</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/271afb0a259ef8a4f57712b27b471411.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/271afb0a259ef8a4f57712b27b471411.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/271afb0a259ef8a4f57712b27b471411.mp3" length="133864319" type="audio/mpeg"/>
       <itunes:duration>02:19:26</itunes:duration>
       <pubDate>Tue, 10 May 2022 18:20:43 +0000</pubDate>
     </item>
     <item>
       <title>Классический разговорный стрим с поигрульками</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ad26b2e7238e654a4da1d1ecfcc37996.mp3</guid>
-      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ad26b2e7238e654a4da1d1ecfcc37996.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ad26b2e7238e654a4da1d1ecfcc37996.mp3" length="128081854" type="audio/mpeg"/>
       <itunes:duration>02:13:25</itunes:duration>
       <pubDate>Thu, 12 May 2022 18:24:42 +0000</pubDate>
     </item>
