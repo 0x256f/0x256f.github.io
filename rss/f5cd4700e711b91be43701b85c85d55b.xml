@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 22 May 2022 14:12:44 +0000</lastBuildDate>
-    <pubDate>Wed, 18 May 2022 16:00:26 +0000</pubDate>
+    <lastBuildDate>Sun, 22 May 2022 16:12:17 +0000</lastBuildDate>
+    <pubDate>Sun, 22 May 2022 16:00:13 +0000</pubDate>
+    <item>
+      <title>ПОГОСТНИК! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/aa0d6d26c162402522055c20ee2059eb.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/aa0d6d26c162402522055c20ee2059eb.mp3" length="24229027" type="audio/mpeg"/>
+      <itunes:duration>25:14</itunes:duration>
+      <pubDate>Sun, 22 May 2022 16:00:13 +0000</pubDate>
+    </item>
     <item>
       <title>РАДИОВЫШКА! Страшные Истории На Ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a733ef256bb59b4c465a2fbf9e23cf15.mp3</guid>
