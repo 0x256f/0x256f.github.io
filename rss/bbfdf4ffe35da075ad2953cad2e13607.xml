@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 22 May 2022 12:10:07 +0000</lastBuildDate>
-    <pubDate>Sun, 15 May 2022 14:00:05 +0000</pubDate>
+    <lastBuildDate>Sun, 22 May 2022 14:12:46 +0000</lastBuildDate>
+    <pubDate>Sun, 22 May 2022 14:00:32 +0000</pubDate>
+    <item>
+      <title>Население ноль | Воркута | Вымерший советский поселок | Страшная история</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/4ebb5c9bb9833d41a7d3be2946ff8b7f.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/4ebb5c9bb9833d41a7d3be2946ff8b7f.mp3" length="31534954" type="audio/mpeg"/>
+      <itunes:duration>32:51</itunes:duration>
+      <pubDate>Sun, 22 May 2022 14:00:32 +0000</pubDate>
+    </item>
     <item>
       <title>В ПУСТОТУ | Жуткая мистическая история | Случай на карьерах</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/1750856eec8518457e608237786b57ee.mp3</guid>
