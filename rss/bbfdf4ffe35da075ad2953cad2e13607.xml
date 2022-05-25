@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 May 2022 16:10:07 +0000</lastBuildDate>
-    <pubDate>Sun, 22 May 2022 14:00:32 +0000</pubDate>
+    <lastBuildDate>Wed, 25 May 2022 18:10:53 +0000</lastBuildDate>
+    <pubDate>Wed, 25 May 2022 16:52:05 +0000</pubDate>
+    <item>
+      <title>Почему я боюсь трамваев | Висногорск | Страшная история</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/af2755a7d50b224099e6500e13eeb81f.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/af2755a7d50b224099e6500e13eeb81f.mp3" length="8511672" type="audio/mpeg"/>
+      <itunes:duration>08:52</itunes:duration>
+      <pubDate>Wed, 25 May 2022 16:52:05 +0000</pubDate>
+    </item>
     <item>
       <title>Население ноль | Воркута | Вымерший советский поселок | Страшная история</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/4ebb5c9bb9833d41a7d3be2946ff8b7f.mp3</guid>
