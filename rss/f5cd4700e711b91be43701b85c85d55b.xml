@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 May 2022 14:10:05 +0000</lastBuildDate>
-    <pubDate>Sun, 22 May 2022 16:00:13 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 16:13:27 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2022 16:00:18 +0000</pubDate>
+    <item>
+      <title>ОТЕЛЬ ПЕРЕПУТЬЕ! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/9ff83635e0dbcc9f96681f1b5ba347fb.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/9ff83635e0dbcc9f96681f1b5ba347fb.mp3" length="38494810" type="audio/mpeg"/>
+      <itunes:duration>40:06</itunes:duration>
+      <pubDate>Thu, 26 May 2022 16:00:18 +0000</pubDate>
+    </item>
     <item>
       <title>ПОГОСТНИК! Страшные Истории На Ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/aa0d6d26c162402522055c20ee2059eb.mp3</guid>
