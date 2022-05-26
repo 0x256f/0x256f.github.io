@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 May 2022 10:10:06 +0000</lastBuildDate>
-    <pubDate>Thu, 19 May 2022 12:00:10 +0000</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 12:20:15 +0000</lastBuildDate>
+    <pubDate>Thu, 26 May 2022 12:00:12 +0000</pubDate>
+    <item>
+      <title>СПЕЦОТДЕЛ НКВД. ПОТУСТОРОННЕЕ. Дело номер 012. УЖАСЫ</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/455296b0f03bae13b05a2eae7e9c8e26.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/455296b0f03bae13b05a2eae7e9c8e26.mp3" length="9120540" type="audio/mpeg"/>
+      <itunes:duration>54:39</itunes:duration>
+      <pubDate>Thu, 26 May 2022 12:00:12 +0000</pubDate>
+    </item>
     <item>
       <title>СПЕЦОТДЕЛ НКВД. ПОТУСТОРОННЕЕ. Дело номер 011. УЖАСЫ</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/f7588c400e4f497ca1ec59820736d491.mp3</guid>
