@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 07 Jun 2022 10:10:10 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jun 2022 18:03:24 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jun 2022 14:10:22 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jun 2022 10:41:08 +0000</pubDate>
+    <item>
+      <title>Макарошки и новый сборник</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a351c6fe0040d39a699ebd68118f4a60.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a351c6fe0040d39a699ebd68118f4a60.mp3" length="322598" type="audio/mpeg"/>
+      <itunes:duration>00:20</itunes:duration>
+      <pubDate>Tue, 07 Jun 2022 10:41:08 +0000</pubDate>
+    </item>
     <item>
       <title>ШЕСТЬ ПОРЦИЙ. Страшная история. Ужасы. Страшилка на ночь.</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/4f4d30d9ebc83720e8c9fb6c60de355f.mp3</guid>
