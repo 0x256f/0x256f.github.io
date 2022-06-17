@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 17 Jun 2022 16:11:39 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jun 2022 17:00:11 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2022 18:13:46 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2022 17:00:03 +0000</pubDate>
+    <item>
+      <title>Страшные истории на ночь - ЗАЙЧИК.Страшилки на ночь . Scary stories</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/9956c978ed42d091a6cc0ae24afddd4a.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/9956c978ed42d091a6cc0ae24afddd4a.mp3" length="59533204" type="audio/mpeg"/>
+      <itunes:duration>01:02:01</itunes:duration>
+      <pubDate>Fri, 17 Jun 2022 17:00:03 +0000</pubDate>
+    </item>
     <item>
       <title>11 НОВОЗАРЬЕВСКИХ БАЕК. #2 Городские легенды. Сборник страшных историй #крипи #аудиокнига #триллер</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/c79be77dcb2c01b1fe9ee4d091b48276.mp3</guid>
