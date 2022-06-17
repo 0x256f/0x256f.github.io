@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 17 Jun 2022 14:10:02 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jun 2022 15:31:50 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2022 16:11:33 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2022 15:34:25 +0000</pubDate>
+    <item>
+      <title>НЕ ВЫХОДИ ИЗ ДОМА ПОСЛЕ 21:00! Часть 2. Страшные истории на ночь. Страшилки на ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/6bad330ade9a7cc561215399429a55a3.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/6bad330ade9a7cc561215399429a55a3.mp3" length="17382020" type="audio/mpeg"/>
+      <itunes:duration>18:06</itunes:duration>
+      <pubDate>Fri, 17 Jun 2022 15:34:25 +0000</pubDate>
+    </item>
     <item>
       <title>НЯНЕЧКА. Страшные истории на ночь. Страшилки на ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/62a38ff97816e7694061dbff6f604638.mp3</guid>
