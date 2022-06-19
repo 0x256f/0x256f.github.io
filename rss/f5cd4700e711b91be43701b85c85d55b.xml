@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 19 Jun 2022 14:10:05 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jun 2022 16:00:12 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jun 2022 16:12:22 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jun 2022 16:00:10 +0000</pubDate>
+    <item>
+      <title>ТУМАННОЕ ПОЛЕ! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/b22547baa9799c4e84cdde0e57c0ddcf.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/b22547baa9799c4e84cdde0e57c0ddcf.mp3" length="25784254" type="audio/mpeg"/>
+      <itunes:duration>26:51</itunes:duration>
+      <pubDate>Sun, 19 Jun 2022 16:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>ЖАДНАЯ ТОПЬ! Страшные Истории На Ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/064c03ff8c14896e494303f74b2c3977.mp3</guid>
