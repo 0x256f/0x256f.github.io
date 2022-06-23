@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Jun 2022 10:10:05 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jun 2022 16:12:36 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jun 2022 12:20:22 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jun 2022 12:00:11 +0000</pubDate>
+    <item>
+      <title>ХИЩНЫЕ ЗЕРКАЛА. УЖАСЫ. ГЛАВА 4. МИСТИКА. СТРАШНЫЕ РАССКАЗЫ</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e392b7343a1c8404a74691846d42f3f4.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e392b7343a1c8404a74691846d42f3f4.mp3" length="9281036" type="audio/mpeg"/>
+      <itunes:duration>34:03</itunes:duration>
+      <pubDate>Thu, 23 Jun 2022 12:00:11 +0000</pubDate>
+    </item>
     <item>
       <title>ДЕРЕВНЯ ТИХОЕ. ХОСТЕЛ. НОВЫЕ УЖАСЫ С ОТДЕЛОМ ГРУ. СТРИМ.</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/81c9999fb43d1d31f5fec45479ecebd8.mp3</guid>
