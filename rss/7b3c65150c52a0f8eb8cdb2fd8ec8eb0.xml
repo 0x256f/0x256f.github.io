@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Jun 2022 10:10:05 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jun 2022 12:00:11 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2022 12:32:01 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2022 12:00:13 +0000</pubDate>
+    <item>
+      <title>ХИЩНЫЕ ЗЕРКАЛА. УЖАСЫ. ФИНАЛ. МИСТИКА. СТРАШНЫЕ РАССКАЗЫ</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/27e44ca0c36210959b0e33eac52d13ce.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/27e44ca0c36210959b0e33eac52d13ce.mp3" length="6240801" type="audio/mpeg"/>
+      <itunes:duration>29:10</itunes:duration>
+      <pubDate>Tue, 28 Jun 2022 12:00:13 +0000</pubDate>
+    </item>
     <item>
       <title>ХИЩНЫЕ ЗЕРКАЛА. УЖАСЫ. ГЛАВА 4. МИСТИКА. СТРАШНЫЕ РАССКАЗЫ</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e392b7343a1c8404a74691846d42f3f4.mp3</guid>
