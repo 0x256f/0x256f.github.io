@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Jun 2022 18:10:03 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jun 2022 15:01:28 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2022 20:11:35 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2022 18:16:48 +0000</pubDate>
+    <item>
+      <title>НЕ ВЫХОДИ ИЗ ДОМА ПОСЛЕ 21:00! Часть 3. Страшные истории на ночь. Страшилки на ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ef8fb61a5ab6ced684ffc49405a5c00d.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ef8fb61a5ab6ced684ffc49405a5c00d.mp3" length="18213759" type="audio/mpeg"/>
+      <itunes:duration>18:58</itunes:duration>
+      <pubDate>Tue, 28 Jun 2022 18:16:48 +0000</pubDate>
+    </item>
     <item>
       <title>ПОСМОТРИСЬ В ЗЕРКАЛО. Страшные истории на ночь. Страшилки на ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/905a238754e22a68701740da45ac7c82.mp3</guid>
