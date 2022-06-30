@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Jun 2022 10:10:05 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jun 2022 12:00:13 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2022 12:27:24 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2022 12:00:13 +0000</pubDate>
+    <item>
+      <title>ХОСТЕЛ. I. Ужасы. ПОСТАПОКАЛИПСИС. АУДИОКНИГИ. СТРАШНЫЕ РАССКАЗЫ</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/674bcc4df925c7d6f0c2ce5aef9b1e4c.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/674bcc4df925c7d6f0c2ce5aef9b1e4c.mp3" length="2080853" type="audio/mpeg"/>
+      <itunes:duration>01:06:27</itunes:duration>
+      <pubDate>Thu, 30 Jun 2022 12:00:13 +0000</pubDate>
+    </item>
     <item>
       <title>ХИЩНЫЕ ЗЕРКАЛА. УЖАСЫ. ФИНАЛ. МИСТИКА. СТРАШНЫЕ РАССКАЗЫ</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/27e44ca0c36210959b0e33eac52d13ce.mp3</guid>
