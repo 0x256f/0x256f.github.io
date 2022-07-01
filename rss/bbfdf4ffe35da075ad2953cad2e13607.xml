@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Jun 2022 20:10:05 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jun 2022 14:00:16 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Jul 2022 07:03:22 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Jul 2022 06:06:01 +0000</pubDate>
+    <item>
+      <title>Смотрим кино и общаемся</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/d89e0a2e7d233679e1ea9f39faca74c3.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/d89e0a2e7d233679e1ea9f39faca74c3.mp3" length="111968691" type="audio/mpeg"/>
+      <itunes:duration>01:56:38</itunes:duration>
+      <pubDate>Fri, 01 Jul 2022 06:06:01 +0000</pubDate>
+    </item>
     <item>
       <title>Внутри меня шумят деревья | Страшная походная история</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e5632b983edb34bfab323bcb26d5fdbc.mp3</guid>
