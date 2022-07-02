@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 02 Jul 2022 16:10:00 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jun 2022 18:16:48 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Jul 2022 18:12:38 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Jul 2022 17:00:27 +0000</pubDate>
+    <item>
+      <title>МЕСТЬ МЁРТВЫХ. Страшные истории на ночь. Страшилки на ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e1a9633de1b3f7be803b33c91152d626.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e1a9633de1b3f7be803b33c91152d626.mp3" length="13973981" type="audio/mpeg"/>
+      <itunes:duration>14:33</itunes:duration>
+      <pubDate>Sat, 02 Jul 2022 17:00:27 +0000</pubDate>
+    </item>
     <item>
       <title>НЕ ВЫХОДИ ИЗ ДОМА ПОСЛЕ 21:00! Часть 3. Страшные истории на ночь. Страшилки на ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/ef8fb61a5ab6ced684ffc49405a5c00d.mp3</guid>
