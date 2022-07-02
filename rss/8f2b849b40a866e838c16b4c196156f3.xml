@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 02 Jul 2022 16:10:05 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jun 2022 15:08:55 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Jul 2022 18:12:43 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Jul 2022 16:51:34 +0000</pubDate>
+    <item>
+      <title>НЕ ШУТИ С ЗЕРКАЛАМИ! Страшные истории на ночь. Страшилки на ночь.</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a65c48ca832d28535f3dfe1768a1b1ce.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a65c48ca832d28535f3dfe1768a1b1ce.mp3" length="39602820" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <pubDate>Sat, 02 Jul 2022 16:51:34 +0000</pubDate>
+    </item>
     <item>
       <title>УЖАС ПОДМОСКОВНОЙ ПСИХУШКИ. Страшная история. Триллер. Страшилка на ночь.</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/159df040545cb88f3dad381e96ef548a.mp3</guid>
