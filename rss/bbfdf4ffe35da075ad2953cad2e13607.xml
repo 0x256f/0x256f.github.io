@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 03 Jul 2022 12:10:04 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Jul 2022 06:06:01 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Jul 2022 14:11:26 +0000</lastBuildDate>
+    <pubDate>Sun, 03 Jul 2022 14:00:06 +0000</pubDate>
+    <item>
+      <title>ОПАСАЙТЕСЬ БОЛОТ | Страшная история | Ужас на болоте в лесу</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/edfac9176fb8acc91c7733c1d5e9082d.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/edfac9176fb8acc91c7733c1d5e9082d.mp3" length="15816763" type="audio/mpeg"/>
+      <itunes:duration>16:28</itunes:duration>
+      <pubDate>Sun, 03 Jul 2022 14:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Смотрим кино и общаемся</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/d89e0a2e7d233679e1ea9f39faca74c3.mp3</guid>
