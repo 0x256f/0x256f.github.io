@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 04 Jul 2022 16:10:05 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Jul 2022 16:51:34 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Jul 2022 18:12:06 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Jul 2022 17:20:42 +0000</pubDate>
+    <item>
+      <title>Случай под Рязанью. Рассказ бывшего следователя. Страшная история. Ужасы. СССР</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/67aa3c10503859397287950f61ff7a74.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/67aa3c10503859397287950f61ff7a74.mp3" length="29619029" type="audio/mpeg"/>
+      <itunes:duration>30:51</itunes:duration>
+      <pubDate>Mon, 04 Jul 2022 17:20:42 +0000</pubDate>
+    </item>
     <item>
       <title>НЕ ШУТИ С ЗЕРКАЛАМИ! Страшные истории на ночь. Страшилки на ночь.</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a65c48ca832d28535f3dfe1768a1b1ce.mp3</guid>
