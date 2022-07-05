@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 05 Jul 2022 14:10:02 +0000</lastBuildDate>
-    <pubDate>Fri, 01 Jul 2022 16:00:02 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2022 16:12:40 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2022 16:00:10 +0000</pubDate>
+    <item>
+      <title>КЛАДБИЩЕНСКИЙ МЯСНИК! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/acabf9b11e60b303fcf1b33d39f6c727.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/acabf9b11e60b303fcf1b33d39f6c727.mp3" length="28819891" type="audio/mpeg"/>
+      <itunes:duration>30:01</itunes:duration>
+      <pubDate>Tue, 05 Jul 2022 16:00:10 +0000</pubDate>
+    </item>
     <item>
       <title>ДВОЕДУШНИК! Страшные Истории На Ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/022c881a75943eebda4d0b306203728c.mp3</guid>
