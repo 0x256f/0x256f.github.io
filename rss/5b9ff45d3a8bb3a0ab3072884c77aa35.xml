@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 07 Jul 2022 18:10:00 +0000</lastBuildDate>
-    <pubDate>Sat, 02 Jul 2022 17:00:27 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Jul 2022 21:04:21 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Jul 2022 18:12:45 +0000</pubDate>
+    <item>
+      <title>ИГРЫ С ГУНЗАМИ. Страшные истории на ночь. Страшилки на ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/f283bd87e4f23d862c3bf0b2aba57e57.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/f283bd87e4f23d862c3bf0b2aba57e57.mp3" length="20372518" type="audio/mpeg"/>
+      <itunes:duration>21:13</itunes:duration>
+      <pubDate>Thu, 07 Jul 2022 18:12:45 +0000</pubDate>
+    </item>
     <item>
       <title>МЕСТЬ МЁРТВЫХ. Страшные истории на ночь. Страшилки на ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e1a9633de1b3f7be803b33c91152d626.mp3</guid>
