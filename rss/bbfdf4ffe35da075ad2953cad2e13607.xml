@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 10 Jul 2022 12:10:03 +0000</lastBuildDate>
-    <pubDate>Thu, 07 Jul 2022 18:12:59 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Jul 2022 14:14:05 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Jul 2022 14:00:08 +0000</pubDate>
+    <item>
+      <title>Бежин Луг | Жуткие летние байки | И.С. Тургенев</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/5f5f98c8c98949e70e47ce9bae9bef2f.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/5f5f98c8c98949e70e47ce9bae9bef2f.mp3" length="44020649" type="audio/mpeg"/>
+      <itunes:duration>45:51</itunes:duration>
+      <pubDate>Sun, 10 Jul 2022 14:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>Очередная болтовня с поигрульками</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/c4dfd931c9396bed294e3fbafb473196.mp3</guid>
