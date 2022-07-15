@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 15 Jul 2022 16:10:01 +0000</lastBuildDate>
-    <pubDate>Sun, 10 Jul 2022 16:38:22 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2022 18:11:34 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Jul 2022 16:44:55 +0000</pubDate>
+    <item>
+      <title>НОЧНОЙ МАГАЗИН. Страшные истории на ночь. Страшилки на ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9aeaf4f06b7c87f7ee95d6d5669101a.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/e9aeaf4f06b7c87f7ee95d6d5669101a.mp3" length="17285889" type="audio/mpeg"/>
+      <itunes:duration>18:00</itunes:duration>
+      <pubDate>Fri, 15 Jul 2022 16:44:55 +0000</pubDate>
+    </item>
     <item>
       <title>Каждое лето в моем городе пропадают дети. Страшные истории на ночь. Страшилки на ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/c87bb0d4338a3aa219ca73b0cbc430bf.mp3</guid>
