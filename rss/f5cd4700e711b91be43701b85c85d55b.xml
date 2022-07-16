@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 16 Jul 2022 14:10:02 +0000</lastBuildDate>
-    <pubDate>Tue, 12 Jul 2022 16:00:30 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Jul 2022 16:11:56 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Jul 2022 16:00:13 +0000</pubDate>
+    <item>
+      <title>СТРАННИКИ! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/46b46c6d6e7e9e00ef4f6098bd30ff9b.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/46b46c6d6e7e9e00ef4f6098bd30ff9b.mp3" length="21095169" type="audio/mpeg"/>
+      <itunes:duration>21:58</itunes:duration>
+      <pubDate>Sat, 16 Jul 2022 16:00:13 +0000</pubDate>
+    </item>
     <item>
       <title>ПРОКЛЯТОЕ ПОЛЕ! Страшные Истории На Ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/a77aba02ae89d784ef8917ad5fe1a3af.mp3</guid>
