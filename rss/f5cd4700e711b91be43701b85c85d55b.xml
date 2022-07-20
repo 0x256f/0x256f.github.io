@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 20 Jul 2022 14:10:04 +0000</lastBuildDate>
-    <pubDate>Sat, 16 Jul 2022 16:00:13 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2022 16:12:17 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Jul 2022 16:00:41 +0000</pubDate>
+    <item>
+      <title>ЛЕСНИК! Страшные Истории На Ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/6a0c108e68ae78f07e428689c81f397b.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/6a0c108e68ae78f07e428689c81f397b.mp3" length="24680005" type="audio/mpeg"/>
+      <itunes:duration>25:42</itunes:duration>
+      <pubDate>Wed, 20 Jul 2022 16:00:41 +0000</pubDate>
+    </item>
     <item>
       <title>СТРАННИКИ! Страшные Истории На Ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/46b46c6d6e7e9e00ef4f6098bd30ff9b.mp3</guid>
