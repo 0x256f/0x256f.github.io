@@ -8,8 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 23 Jul 2022 16:10:01 +0000</lastBuildDate>
-    <pubDate>Mon, 18 Jul 2022 16:00:37 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Jul 2022 18:11:43 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Jul 2022 17:02:21 +0000</pubDate>
+    <item>
+      <title>4 СТРАШНЫЕ ИСТОРИИ. Страшные истории на ночь. Страшилки на ночь</title>
+      <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/b26075e54d0ae6aa8ba480f12b29bd78.mp3</guid>
+      <enclosure url="https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/b26075e54d0ae6aa8ba480f12b29bd78.mp3" length="19910255" type="audio/mpeg"/>
+      <itunes:duration>20:44</itunes:duration>
+      <pubDate>Sat, 23 Jul 2022 17:02:21 +0000</pubDate>
+    </item>
     <item>
       <title>СКОРБНАЯ. Страшные истории на ночь. Страшилки на ночь</title>
       <guid isPermaLink="false">https://ads-docker-registry.s3.amazonaws.com/docker/registry/v2/blobs/sha256/fz/zb/bd789098090c0143b6a8b564ca0a2497.mp3</guid>
